@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="squermall">
+    <output-path>$PROJECT_DIR$/out/artifacts/squermall</output-path>
+    <root id="archive" name="squermall.war">
+      <element id="javaee-facet-resources" facet="squermall/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="squermall" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
